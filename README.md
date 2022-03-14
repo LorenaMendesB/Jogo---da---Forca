@@ -4,6 +4,8 @@ O jogo mostrará palavras aleatórias que devem ser descobertas pelo jogador, se
 <br>
 Como jogar:
 <br> 1 - O jogador deve clicar em INICIAR,
+<br>
 2 - Em seguida ele clica nas letras que acha que forma a palavra.
+<br>
 3 - Se ele quiser jogar novamente ou reinicar a partida basta clicar em REINICIAR.
 
