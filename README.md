@@ -8,4 +8,6 @@ Como jogar:
 2 - Em seguida ele clica nas letras que acha que forma a palavra.
 <br>
 3 - Se ele quiser jogar novamente ou reinicar a partida basta clicar em REINICIAR.
-
+<br>
+Link para jogar: https://jogodaforcalorenamendes.netlify.app/
+ 
