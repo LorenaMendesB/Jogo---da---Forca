@@ -11,3 +11,4 @@ Como jogar:
 <br>
 Link para jogar: https://jogodaforcalorenamendes.netlify.app/
  
+Baseado no código feito por Agnaldo Guimarães: https://github.com/agnaldoguima/jogoDaForca
